@@ -1,5 +1,5 @@
 ---
-title: "KittenCoder"
+title: "Kittens and Code"
 ---
 ## Welcome!
 Hello! I'm KittenCoder and welcome to my site. I hope you enjoy every bit of content I ever put on here.
